@@ -1,4 +1,7 @@
 ```md
+
+![PREFLIGHT Score](https://img.shields.io/badge/PREFLIGHT-83%2F100-3ED88B)
+
 # Folio Forge
 
 Build a portfolio in 3 minutes.
